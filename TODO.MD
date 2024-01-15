@@ -1,0 +1,6 @@
+- [] Ajouter des noms
+- [] Modifier les boutons
+- [] Ajouter un css de victoire
+- [] Ajouter un mode solo contre ordinateur
+- [] Ajouter un mode à distance
+- [] Ajouter un mode commentateur
